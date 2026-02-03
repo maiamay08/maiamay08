@@ -4,8 +4,25 @@
 
 - 🔭 I’m currently working on creating a bunch of cute web projects that will improve my coding and design skills and knowledge.
 - 🌱 I’m currently learning JavaScript, Python, and a bunch of different JavaScipt Frameworks (currently working on Electron JS).
-- 📫 Programming Languages I Know: Python, Java, JavaScript, C, C++, C#, Kotlin, MySQL
-- 🎨 Applications: Figma, Canva, Photoshop, VSCode
+- 📫 Programming Languages I Know
+
+      - Python
+      - Java
+      - JavaScript
+      - C
+      - C++
+      - C#
+      - Kotlin
+      - MySQL
+  
+- 🎨 Applications
+
+      - Figma
+      - Canva
+      - IbisPaint
+      - Photoshop
+      - VSCode
+  
 - ⚡ Fun fact
   
       - I play the piano 🎹
