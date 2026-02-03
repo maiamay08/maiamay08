@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I'm Krisha
 
-<!--
-**maiamay08/maiamay08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on creating a bunch of cute web projects that will improve my coding and design skills and knowledge.
+- 🌱 I’m currently learning JavaScript, Python, and a bunch of different JavaScipt Frameworks (currently working on Electron JS).
+- 📫 Programming Languages I Know: Python, Java, JavaScript, C, C++, C#, Kotlin, MySQL
+- 🎨 Applications: Figma, Canva, Photoshop, VSCode
 - ⚡ Fun fact: ...
--->
+      > I play the piano 🎹
+      > I'm a church musician 🎶
+      > I draw and paint 🖌
+      > I crochet 🧶
+      
