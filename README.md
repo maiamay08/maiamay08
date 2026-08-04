@@ -2,7 +2,7 @@
 
 
 
-- 🏫 3rd Year Diploma in Informatin Technology student in Polytechnic University of the Philippines - Sta. Mesa, Manila.
+- 🏫 Graduated with a Diploma in Information Technology student in Polytechnic University of the Philippines - Sta. Mesa, Manila.
 - 🔭 I’m currently working on creating a bunch of cute web projects that will improve my coding and design skills and knowledge.
 - 🌱 I’m currently learning JavaScript, Python, and a bunch of different JavaScipt Frameworks (currently working on Electron JS).
 
